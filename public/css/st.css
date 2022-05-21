@@ -1,0 +1,15 @@
+
+h1{
+    background: rgba(247, 162, 33, 0.959);
+    color: #0dcaf0;
+}table, th ,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+ }
+ th,td{
+     padding: 5px;
+ }
+ .lugares{
+     text-align: center;
+ }
